@@ -33,10 +33,11 @@
 ## Input:
 
 ### Output:
+![Screenshot 2024-11-27 105625](https://github.com/user-attachments/assets/76ed97bb-e7fc-42de-a855-ba9001d2da07)
 
 
-### Name:
-### Register Number:
+### Name:SRI MATHI S
+### Register Number:24004689
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
